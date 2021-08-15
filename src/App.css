@@ -1,7 +1,15 @@
-.App {
+/* .App {
   text-align: center;
+} */
+.wrapperClass{
+  display: flex;
 }
-
+.wrapper1{
+  width: 5%;
+}
+.wrapper2{
+  width: auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
